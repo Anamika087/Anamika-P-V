@@ -43,6 +43,43 @@ I focus on building real-world hardware systems, including custom PCB developmen
 - Controlled using STM32 microcontroller
 - Developed custom PCB with MOSFET switching
 - Focus on renewable energy integration
+- ## 🚀 Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔹 Digital Voltmeter
+
+<p>
+Designed a custom PCB using STM32 for accurate voltage measurement. 
+Integrated ADC and OLED display for real-time output.
+</p>
+
+<img src="pcb1.png" width="100%"/>
+<br><br>
+<img src="schematic.png" width="100%"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Air Quality Monitoring
+
+<p>
+STM32-based system integrating MQ sensors and OLED display. 
+Designed and fabricated compact PCB for real-time monitoring.
+</p>
+
+<img src="pcb2.png" width="100%"/>
+<br><br>
+<img src="layout.png" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 ### 🔹 STM32 Based Digital Voltmeter
 - Designed custom PCB
