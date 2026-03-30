@@ -1,4 +1,4 @@
-<h1 align="center">Anamika PV</h1>
+<h1 align="center">ANAMIKA PV</h1>
 
 <p align="center">
   Embedded Systems & PCB Design Engineer  
