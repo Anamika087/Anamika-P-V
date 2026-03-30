@@ -44,7 +44,117 @@ I focus on building real-world hardware systems, including custom PCB developmen
 - Developed custom PCB with MOSFET switching
 - Focus on renewable energy integration
 - ## 🚀 Projects
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Anamika Portfolio</title>
 
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0a192f;
+    color: white;
+}
+
+.container {
+    padding: 40px;
+}
+
+h1 {
+    color: #64ffda;
+}
+
+.projects {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.card {
+    background: #112240;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card img {
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.card h3 {
+    color: #ccd6f6;
+}
+
+.card p {
+    font-size: 14px;
+    color: #8892b0;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+    <h1>Projects</h1>
+
+    <div class="projects">
+
+        <!-- Project 1 -->
+        <div class="card">
+            <h3>Digital Voltmeter</h3>
+            <p>
+                STM32-based voltmeter with custom PCB design,
+                ADC measurement, and OLED display.
+            </p>
+            <img src="pcb1.png">
+            <img src="schematic1.png">
+        </div>
+
+        <!-- Project 2 -->
+        <div class="card">
+            <h3>Air Quality Monitoring</h3>
+            <p>
+                STM32 system integrating MQ sensors and OLED,
+                implemented on custom PCB.
+            </p>
+            <img src="pcb2.png">
+            <img src="schematic2.png">
+        </div>
+
+        <!-- Project 3 -->
+        <div class="card">
+            <h3>DC-DC Converter</h3>
+            <p>
+                Bidirectional SEPIC-Zeta converter with STM32 control
+                and PCB implementation.
+            </p>
+            <img src="pcb3.png">
+            <img src="layout3.png">
+        </div>
+
+        <!-- Project 4 -->
+        <div class="card">
+            <h3>IoT System</h3>
+            <p>
+                ESP8266-based IoT system with real-time monitoring
+                and mobile integration.
+            </p>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>
 <table>
 <tr>
 
