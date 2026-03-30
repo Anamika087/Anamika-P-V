@@ -1,14 +1,18 @@
-<h1 align="center">ANAMIKA PV</h1>
+# 👩‍💻 Anamika P V
 
-<p align="center">
-  Embedded Systems & PCB Design Engineer  
-</p>
+🎓 M.Tech in VLSI & Embedded Systems  
+📍 Kerala, India  
+📧 anamikapv087@gmail.com  
 
-<p align="center">
-  <b>STM32 | IoT | Real-Time Systems</b>
- 
+---
 
-I am Anamika PV, an M.Tech student specializing in VLSI and Embedded Systems with a strong interest in electronics and hardware design.I am passionate about learning and developing skills in embedded systems, microcontrollers, and circuit design. I enjoy exploring how hardware and software work together to build efficient systems. I am continuously improving my knowledge in areas such as STM32 microcontrollers, PCB design, and digital electronics.I am eager to grow in the field of VLSI and Embedded Systems and contribute to real-world engineering solutions.
+## 🧠 About Me
+
+I am an M.Tech student specializing in **VLSI and Embedded Systems**, with strong hands-on experience in **PCB design, STM32-based embedded systems, and power electronics**.
+
+I focus on building real-world hardware systems, including custom PCB development, sensor integration, and embedded control systems. My interests include renewable energy systems, IoT applications, and high-efficiency power converters.
+
+---
 
 ## 🛠 Skills
 
@@ -21,9 +25,74 @@ I am Anamika PV, an M.Tech student specializing in VLSI and Embedded Systems wit
 
 <p align="center">
   <img src="https://img.shields.io/badge/PCB_Design-Altium-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UART-SPI_I2C-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Proteus-Simulation-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LTspice-Circuit_Design-important?style=for-the-badge"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/UART-SPI_I2C-critical?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IoT-Systems-yellow?style=for-the-badge"/>
 </p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 High Efficiency Bidirectional DC-DC Converter
+- Designed SEPIC-Zeta bidirectional converter
+- Controlled using STM32 microcontroller
+- Developed custom PCB with MOSFET switching
+- Focus on renewable energy integration
+
+### 🔹 STM32 Based Digital Voltmeter
+- Designed custom PCB
+- Used ADC for voltage measurement
+- OLED display (SSD1306)
+- High accuracy measurement system
+
+### 🔹 Air Quality Monitoring System
+- Integrated MQ sensors and DHT sensors
+- Real-time monitoring using STM32
+- Displayed data on OLED
+- Fully implemented on custom PCB
+
+### 🔹 IoT Railway Track Crack Detection
+- ESP8266 (Wemos D1) based system
+- IR and Ultrasonic sensors
+- Firebase real-time monitoring
+- Android app integration
+
+### 🔹 Heart Pulse Monitoring System
+- Pulse sensor with ESP8266
+- Real-time health monitoring
+- Firebase and mobile alerts
+
+---
+
+## 🧪 Tools & Technologies
+
+- Altium Designer  
+- STM32CubeIDE  
+- Proteus  
+- LTspice  
+- Arduino IDE  
+- Efinity IDE  
+
+---
+
+## 🎯 Area of Interest
+
+- PCB Design & Hardware Prototyping  
+- Embedded Systems & STM32 Development  
+- Power Electronics (DC-DC Converters)  
+- Renewable Energy Systems  
+- IoT & Real-Time Monitoring  
+
+---
+
+## 📫 Contact
+
+📧 Email: anamikapv087@gmail.com  
+🔗 LinkedIn: https://linkedin.com/ (add your profile link)
+
+---
